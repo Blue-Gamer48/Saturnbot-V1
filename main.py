@@ -8,7 +8,7 @@ from config import (
     DISCORD_TOKEN,
     ACTIVITY_LIST,
     STATUS,
-)
+ )
 def run_check():
     version = sys.version_info
     if not int(version.major) >= 3 and int(version.minor) >= 10:
