@@ -1,0 +1,9 @@
+discord.py
+asyncio
+pytz
+googletrans
+aiohttp
+discord
+basic utility
+async timeout
+aiosignal
